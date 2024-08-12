@@ -2,3 +2,4 @@
 
 
 Köpönyeg története hosszaban kifejtve --> https://verselemzes.hu/gogol-a-koponyeg-olvasonaplo/
+Szigeti veszedelem tartalma röviden --> https://www.olvasonaplo.co.hu/zrinyi-miklos-szigeti-veszedelem/
