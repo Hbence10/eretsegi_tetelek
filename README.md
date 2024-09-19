@@ -3,6 +3,8 @@
 ### Irodalom:
 - Köpönyeg története hosszaban kifejtve --> https://verselemzes.hu/gogol-a-koponyeg-olvasonaplo/
 - Szigeti veszedelem tartalma röviden --> https://www.olvasonaplo.co.hu/zrinyi-miklos-szigeti-veszedelem/
+- Korstílusok --> https://irodalomora.hu/erettsegi/irodalmi-fogalomgyujtemeny/korstilusok-stilusiranyzatok/
+- Verselemzés --> http://matt.ucoz.hu/publ/muelemzesi_segedanyagok/lira/verselemzes/9-1-0-65
 
 
 ### Nyelvtan:
