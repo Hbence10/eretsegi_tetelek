@@ -10,3 +10,4 @@
 ### Nyelvtan:
 - Szóképek: https://nat2012.nkp.hu/tankonyv/magyar_nyelv_10/lecke_02_020
 - Alakzatok: https://nat2012.nkp.hu/tankonyv/magyar_nyelv_10/lecke_02_021
+- Hangtan: http://users.atw.hu/mazig/tetel/10.pdf
