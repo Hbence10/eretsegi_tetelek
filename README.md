@@ -12,5 +12,5 @@
 - Alakzatok: https://nat2012.nkp.hu/tankonyv/magyar_nyelv_10/lecke_02_021
 - Hangtan: http://users.atw.hu/mazig/tetel/10.pdf
 - Morfémák:
-  - https://www.nkp.hu/tankonyv/magyar_nyelv_12_nat2020/lecke_03_017
+  - https://nat2012.nkp.hu/tankonyv/magyar_nyelv_9/lecke_02_009
   - https://tavoktatas.mnt.org.rs/sites/default/files/2020-11/A%20nyelvi%20szintek.pdf
