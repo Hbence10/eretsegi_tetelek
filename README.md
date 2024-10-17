@@ -10,7 +10,9 @@
 ### Nyelvtan:
 - Szóképek: https://nat2012.nkp.hu/tankonyv/magyar_nyelv_10/lecke_02_020
 - Alakzatok: https://nat2012.nkp.hu/tankonyv/magyar_nyelv_10/lecke_02_021
-- Hangtan: http://users.atw.hu/mazig/tetel/10.pdf
+- Hangtan:
+    - http://users.atw.hu/mazig/tetel/10.pdf
+    - https://nat2012.nkp.hu/tankonyv/magyar_nyelv_5/lecke_02_019
 - Morfémák:
   - https://nat2012.nkp.hu/tankonyv/magyar_nyelv_9/lecke_02_009
   - https://tavoktatas.mnt.org.rs/sites/default/files/2020-11/A%20nyelvi%20szintek.pdf
