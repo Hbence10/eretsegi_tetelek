@@ -5,7 +5,9 @@
 - Szigeti veszedelem tartalma röviden: https://www.olvasonaplo.co.hu/zrinyi-miklos-szigeti-veszedelem/
 - Korstílusok: https://irodalomora.hu/erettsegi/irodalmi-fogalomgyujtemeny/korstilusok-stilusiranyzatok/
 - Verselemzés: http://matt.ucoz.hu/publ/muelemzesi_segedanyagok/lira/verselemzes/9-1-0-65
-- Édes Anna: https://doksi.net/hu/articles.php?order=DisplayHighSchoolContent&id=2560
+- Édes Anna:
+    - https://doksi.net/hu/articles.php?order=DisplayHighSchoolContent&id=2560
+    - https://mek.oszk.hu/02200/02228/html/04/474.html
 
 
 ### Nyelvtan:
