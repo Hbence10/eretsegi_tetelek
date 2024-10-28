@@ -19,3 +19,14 @@
 - Morfémák:
   - https://nat2012.nkp.hu/tankonyv/magyar_nyelv_9/lecke_02_009
   - https://tavoktatas.mnt.org.rs/sites/default/files/2020-11/A%20nyelvi%20szintek.pdf
+
+### Tőri - közép:
+
+### Töri - emelt:
+- Nagy Lajos: https://tudasbazis.sulinet.hu/hu/tarsadalomtudomanyok/tortenelem/a-kozepkor-tortenete-476-1492/magyarorszag-a-14-15-szazadban/nagy-lajos-uralkodasa
+- III. Béla: 
+    - https://nat2012.nkp.hu/tankonyv/tortenelem_9/lecke_05_041.html
+    - https://ujkor.hu/content/iii-bela-legnagyobb-arpad-hazi-kiraly
+- Jakobinus diktatúra: 
+    - https://nat2012.nkp.hu/tankonyv/tortenelem_9/lecke_05_041.html
+    - https://zanza.tv/tortenelem/ujkor-felvilagosodas-forradalmak-es-polgarosodas-kora/francia-forradalom-es-napoleon
