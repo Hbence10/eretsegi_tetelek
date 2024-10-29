@@ -30,3 +30,14 @@
 - Jakobinus diktatúra: 
     - https://nat2012.nkp.hu/tankonyv/tortenelem_9/lecke_05_041.html
     - https://zanza.tv/tortenelem/ujkor-felvilagosodas-forradalmak-es-polgarosodas-kora/francia-forradalom-es-napoleon
+- Politeizmus az ókori Keleten:
+    - https://zanza.tv/tortenelem/az-oskor-es-az-okori-kelet/nagy-civilizaciok-es-vallasok-tavol-keleten
+    - görög: 
+        - https://nat2012.nkp.hu/tankonyv/tortenelem_9/lecke_02_013.html
+        - https://www.nkp.hu/tankonyv/tortenelem_9_nat2020/lecke_02_006
+    - hinduizmus: 
+    - taoizmus: https://hu.wikipedia.org/wiki/Taoizmus#F%C3%BCggel%C3%A9k
+- Erdélyi fejedelmség: 
+    - https://zanza.tv/tortenelem/ujkor-magyarorszag-kora-ujkorban/az-erdelyi-fejedelemseg
+    - https://hu.wikipedia.org/wiki/Erd%C3%A9lyi_Fejedelems%C3%A9g_(1570%E2%80%931711)#%C3%96n%C3%A1ll%C3%B3_%C3%A1llamis%C3%A1g
+    - https://nat2012.nkp.hu/tankonyv/tortenelem_10/lecke_02_016
