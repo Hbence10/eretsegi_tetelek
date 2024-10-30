@@ -26,7 +26,7 @@
 - Nagy Lajos: https://tudasbazis.sulinet.hu/hu/tarsadalomtudomanyok/tortenelem/a-kozepkor-tortenete-476-1492/magyarorszag-a-14-15-szazadban/nagy-lajos-uralkodasa
 - III. Béla: 
     - https://nat2012.nkp.hu/tankonyv/tortenelem_9/lecke_05_041.html
-    - https://ujkor.hu/content/iii-bela-legnagyobb-arpad-hazi-kiraly
+    - https://ujkor.hu/content/iii-bela-legnagyobb-arpad-hazi-kiraly    
 - Jakobinus diktatúra: 
     - https://nat2012.nkp.hu/tankonyv/tortenelem_9/lecke_05_041.html
     - https://zanza.tv/tortenelem/ujkor-felvilagosodas-forradalmak-es-polgarosodas-kora/francia-forradalom-es-napoleon
@@ -41,3 +41,12 @@
     - https://zanza.tv/tortenelem/ujkor-magyarorszag-kora-ujkorban/az-erdelyi-fejedelemseg
     - https://hu.wikipedia.org/wiki/Erd%C3%A9lyi_Fejedelems%C3%A9g_(1570%E2%80%931711)#%C3%96n%C3%A1ll%C3%B3_%C3%A1llamis%C3%A1g
     - https://nat2012.nkp.hu/tankonyv/tortenelem_10/lecke_02_016
+- Politikai eszmék és pártrendszer a dualizmus kori Magyarországon:
+    - https://zanza.tv/tortenelem/ujkor-kiegyezeshez-vezeto-ut-es-dualizmus-kora-magyarorszagon/dualista-allam-politikai
+    - https://www.youtube.com/watch?v=pFhXzqmuSw4
+    - https://www.youtube.com/watch?v=DIsK9bEdK-Q
+    - https://www.youtube.com/watch?v=pkU8iuneQ38
+    - https://www.youtube.com/watch?v=9EnEudUJdY4
+- A Hun Birodalom és hódításainak irányai:
+    - https://tudasbazis.sulinet.hu/hu/tarsadalomtudomanyok/tortenelem/a-kozepkor-tortenete-476-1492/a-nepvandorlas-tortenete/a-nepvandorlas-a-hunok-tortenete
+    - https://www.studocu.com/hu/document/national-university-of-public-service/history/a-sztyeppei-allam-a-hun-birodalom-es-hoditasainak-iranya/35567279
