@@ -1,4 +1,4 @@
-    !!! MINDENKI SAJÁT FELELŐSÉGRE HASZNÁLJA. NEM VÁLLALOK FELELŐSÉGET ARRA, HOGY MINDEN PONTOSAN ÚGY VAN AHOGY LEÍRTAM !!!
+        !!! MINDENKI SAJÁT FELELŐSÉGRE HASZNÁLJA. NEM VÁLLALOK FELELŐSÉGET ARRA, HOGY MINDEN PONTOSAN ÚGY VAN AHOGY LEÍRTAM !!!
 
 ### Irodalom:
 - Köpönyeg története hosszaban kifejtve: https://verselemzes.hu/gogol-a-koponyeg-olvasonaplo/
@@ -23,7 +23,6 @@
 ### Tőri - közép:
 
 ### Töri - emelt:
-- Nagy Lajos: https://tudasbazis.sulinet.hu/hu/tarsadalomtudomanyok/tortenelem/a-kozepkor-tortenete-476-1492/magyarorszag-a-14-15-szazadban/nagy-lajos-uralkodasa
 - III. Béla: 
     - https://nat2012.nkp.hu/tankonyv/tortenelem_9/lecke_05_041.html
     - https://ujkor.hu/content/iii-bela-legnagyobb-arpad-hazi-kiraly    
