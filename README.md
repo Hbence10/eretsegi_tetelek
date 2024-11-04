@@ -19,6 +19,8 @@
 - Morfémák:
   - https://nat2012.nkp.hu/tankonyv/magyar_nyelv_9/lecke_02_009
   - https://tavoktatas.mnt.org.rs/sites/default/files/2020-11/A%20nyelvi%20szintek.pdf
+- Szintagma: 
+    - https://nat2012.nkp.hu/tankonyv/magyar_nyelv_9/lecke_02_013
 
 ### Tőri - közép:
 
