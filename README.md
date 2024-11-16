@@ -23,6 +23,10 @@
     - https://nat2012.nkp.hu/tankonyv/magyar_nyelv_9/lecke_02_013
 
 ### Tőri - közép:
+- Görög Istenek: 
+    - https://www.topartigimi.hu/_upload/editor/Tortenelem/A_gorog_istenek.pdf
+    - https://hu.wikipedia.org/wiki/Tizenk%C3%A9t_ol%C3%BCmposzi_isten
+- Építészet:
 
 ### Töri - emelt:
 - III. Béla: 
@@ -51,3 +55,10 @@
 - A Hun Birodalom és hódításainak irányai:
     - https://tudasbazis.sulinet.hu/hu/tarsadalomtudomanyok/tortenelem/a-kozepkor-tortenete-476-1492/a-nepvandorlas-tortenete/a-nepvandorlas-a-hunok-tortenete
     - https://www.studocu.com/hu/document/national-university-of-public-service/history/a-sztyeppei-allam-a-hun-birodalom-es-hoditasainak-iranya/35567279
+- A Bolsevik forradalom Oroszországban:
+    - https://nat2012.nkp.hu/tankonyv/tortenelem_11/lecke_03_023
+    - https://www.youtube.com/watch?v=dzTZ4dngzHM
+- Az uralkodói hatalom és korlátai (hűbériség, rendiség, rendi monarchia)
+    - https://hu.wikipedia.org/wiki/Feudalizmus#H%C5%B1b%C3%A9ri_rendszer
+    - https://hu.wikipedia.org/wiki/Rend_(feudalizmus)
+    - https://nat2012.nkp.hu/tankonyv/tortenelem_9/lecke_04_030
