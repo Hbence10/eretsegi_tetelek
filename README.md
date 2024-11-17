@@ -48,6 +48,7 @@
     - https://nat2012.nkp.hu/tankonyv/tortenelem_10/lecke_02_016
 - Politikai eszmék és pártrendszer a dualizmus kori Magyarországon:
     - https://zanza.tv/tortenelem/ujkor-kiegyezeshez-vezeto-ut-es-dualizmus-kora-magyarorszagon/dualista-allam-politikai
+    - https://tti.abtk.hu/images/kiadvanyok/folyoiratok/tsz/tsz1992_3-4/szabo.pdf
     - https://www.youtube.com/watch?v=pFhXzqmuSw4
     - https://www.youtube.com/watch?v=DIsK9bEdK-Q
     - https://www.youtube.com/watch?v=pkU8iuneQ38
