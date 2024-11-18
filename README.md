@@ -9,6 +9,7 @@
     - https://doksi.net/hu/articles.php?order=DisplayHighSchoolContent&id=2560
     - https://mek.oszk.hu/02200/02228/html/04/474.html
 - Az ajtó: https://erettsegi.com/tetelek/irodalom/kapcsolatok-konfliktusok-szabo-magda-az-ajto-cimu-regenyeben/
+- Szegény emberek: https://blog.verselemzes.hu/jegyzet/moricz-zsigmond-szegeny-emberek-elemzes/
 
 ### Nyelvtan:
 - Szóképek: https://nat2012.nkp.hu/tankonyv/magyar_nyelv_10/lecke_02_020
