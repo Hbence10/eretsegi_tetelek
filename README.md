@@ -35,8 +35,9 @@
     - https://ujkor.hu/content/iii-bela-legnagyobb-arpad-hazi-kiraly    
     
 - Jakobinus diktatúra: 
-    - https://nat2012.nkp.hu/tankonyv/tortenelem_9/lecke_05_041.html
+    - https://dtk.tankonyvtar.hu/bitstream/handle/123456789/5079/jakobinus_diktatura.pdf?sequence=1&isAllowed=y
     - https://zanza.tv/tortenelem/ujkor-felvilagosodas-forradalmak-es-polgarosodas-kora/francia-forradalom-es-napoleon
+    - https://nat2012.nkp.hu/tankonyv/tortenelem_10/lecke_03_025
 
 - Politeizmus az ókori Keleten:
     - https://zanza.tv/tortenelem/az-oskor-es-az-okori-kelet/nagy-civilizaciok-es-vallasok-tavol-keleten
